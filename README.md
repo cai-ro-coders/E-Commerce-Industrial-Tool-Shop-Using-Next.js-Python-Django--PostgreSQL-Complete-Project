@@ -678,3 +678,12 @@ your web server or CDN to serve the media directory.
 ## License
 
 This project is provided for demonstration and educational purposes.
+
+
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Industrial-Tool-Shop-Using-Next.js-Python-Django--PostgreSQL-Complete-Project/refs/heads/main/1.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Industrial-Tool-Shop-Using-Next.js-Python-Django--PostgreSQL-Complete-Project/refs/heads/main/2.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Industrial-Tool-Shop-Using-Next.js-Python-Django--PostgreSQL-Complete-Project/refs/heads/main/3.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Industrial-Tool-Shop-Using-Next.js-Python-Django--PostgreSQL-Complete-Project/refs/heads/main/4.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Industrial-Tool-Shop-Using-Next.js-Python-Django--PostgreSQL-Complete-Project/refs/heads/main/5.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Industrial-Tool-Shop-Using-Next.js-Python-Django--PostgreSQL-Complete-Project/refs/heads/main/6.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Industrial-Tool-Shop-Using-Next.js-Python-Django--PostgreSQL-Complete-Project/refs/heads/main/7.png" alt="Cairocoders Ednalan">
